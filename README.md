@@ -3,11 +3,14 @@ This BookStore Website is using PHP and Database(MySQL). In this website you can
 And also all the book data will store at the database for easy to add, edit and delete.
 
 ## Home Page & Edit Profile Page:
-![HomePage](/homepage.PNG)
-![EditProfile](/editprofile.PNG)
+![homepage](https://github.com/user-attachments/assets/68bca80f-4210-4fbd-8c9f-b9cffa293913)
+
+![editprofile](https://github.com/user-attachments/assets/691ef696-6e7b-4b03-a679-9f00ce29f0ce)
+
 
 ## DataBase:
-![Database](/db.PNG)
+![Database]
+![HomePage]![db](https://github.com/user-attachments/assets/ee913059-5694-4bce-b458-0b1deeff3a2c)
 
 ## How to run:
 Download [bookstore](https://github.com/weixiong15/PHP_Basic_BookStore_Website/tree/master/bookstore) folder and upload these file to your server or you can download an application called
